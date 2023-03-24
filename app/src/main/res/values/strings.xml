@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+
+
+    <string-array name="bot_responses">
+        <item>Hello!</item>
+        <item>Ok...</item>
+        <item>I am your chat bot, nice to meet you!</item>
+        <item>I cant get your message, sorry.</item>
+        <item>That sounds good.</item>
+        <item>You ok?</item>
+    </string-array>
+
+
+</resources>
